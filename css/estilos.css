@@ -1,0 +1,105 @@
+/* ARQUIVO DE ESTILIZAÇÃO */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabeçario_1{
+    font-variant-caps: all-petite-caps;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.cabeçario_1 h1{
+    font-size: 60px;
+}
+
+.cabeçario_1 h2{
+    font-size: 30px;
+}
+
+header .menu_1{
+    margin-top: 12vh;
+    font-size: 27px;
+    background-color: darkcyan;
+    height: 50px;
+    border-radius: 11px;
+    margin-left: 0vh;
+    margin-right: 0vh;
+}
+
+header .menu_1 ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+header .menu_1 ul il a{
+    color: white;
+    text-decoration: none;
+    padding:17px 8px;
+    padding-top: 0px;
+    
+
+}
+header .menu_1 ul il a:hover{
+    background-color: #07575f;
+}
+
+.cabeçario_2{
+    font-variant-caps: all-petite-caps;
+    text-align: center;
+}
+
+.cabeçario_2 h2{
+    font-size: 30px;
+}
+
+.menu_2{
+    font-size: 21px;
+    background-color: darkcyan;
+    height: 29px;
+    border-radius: 11px;
+    margin-left: 0vh;
+    margin-right: 0vh;
+}
+
+.menu_2 ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+header .menu_2 ul il a{
+    color: white;
+    text-decoration: none;
+    padding:5px 5px;
+    padding-top: 0px;
+    
+}
+header .menu_2 ul il a:hover{
+    background-color: #07575f;
+}
+
+.st_1{
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+fieldset{
+    width: 20px;
+    margin-left: 85vh;
+    justify-content: space-between;
+}
+
+table {
+    align-self: center;
+}
+table tbody td a{
+    text-decoration: none;
+    color: red;
+    padding:2px 2px;
+    
+}
+
